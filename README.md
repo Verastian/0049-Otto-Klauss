@@ -28,11 +28,11 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 login interface
-![Login](readme\login.png "Login Form")
+![Login](readme/login.png "Login Form")
 
 
 form to create and edit
-![Form](readme\add.png "Create and Edit")
+![Form](readme/add.png "Create and Edit")
 
 ### Test Access Credentials
 
